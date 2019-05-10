@@ -15,7 +15,7 @@ DILARANG MENJUAL BELIKAN SCRIPT INI JIKA ANDA NEKAT MENJUAL BELIKAN KEPADA ORANG
     - Akun paypal harus akun bisnis.
     - Masuk ke My Account > Profile > Get API Credentials dan ikuti petunjuk selanjutnya dan anda akan mendapatkan API Username, API Password dan API Signature
     - Simpan / salin data-data API tersebut
-* Masuk / kunjungi Admin panel (admin.php) dan masukan Username dan Password Administrator (Default: username = okepulsa, password = mahadewa)
+* Masuk / kunjungi Admin panel (admin.php) dan masukan Username dan Password Administrator (Default: username = shopyan, password = asratech123)
     - Admin Panel > Pengaturan::Metode Pembayaran dan masukan data - data API Paypal yang didapatkan tadi
     - Admin Panel > Pengaturan::Produk & Format Transaksi dan masukan format transaksi pengisian pulsa (NB: Format transaksi dari Agen Pulsa)
     - Admin Panel > Pengaturan::EnvayaSMS dan measukan kata sandi untuk memvalidasi aplikasi EnvayaSMS di android
