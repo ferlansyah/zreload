@@ -1,4 +1,6 @@
 DILARANG MENJUAL BELIKAN SCRIPT INI JIKA ANDA NEKAT MENJUAL BELIKAN KEPADA ORANG SEMOGA RAJEKI SERET 7 TURUNAN, SHARING IS CARING.
+# Donasi
+* BCA 6630288884 a/n Ahmad Sopian
 # Persyaratan Utama
 * Anda telah menjadi distributor pulsa multichip
 * Handphone Android sebagai SMS gateway dengan menggunakan aplikasi EnvayaSMS (Gratis)
