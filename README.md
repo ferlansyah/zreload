@@ -28,4 +28,7 @@ DILARANG MENJUAL BELIKAN SCRIPT INI JIKA ANDA NEKAT MENJUAL BELIKAN KEPADA ORANG
     - Call notifications : Tandai
     - Enable EnvayaSMS : Tandai
     
-Thanks to: SGB TEAM, ALAM DWI GUNAWAN
+Username & Password :
+- Admin Panel : http://domain.com/admin.php
+- Username : shopyan
+- Password : asratech123
